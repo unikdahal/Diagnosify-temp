@@ -18,7 +18,7 @@ const Team = () => {
           name="Ajay Khatri"
           role="UI/UX Designer & FrontEnd Developer"
         />
-        <TeamCard img={img3} name="Bipin Ghimire" role="ML/AI Developer" />
+        <TeamCard img={img3} name="Aayush Sinha " role="ML/AI Developer" />
         <TeamCard img={img2} name="Tushar Karna" role="BackEnd Developer" />
       </div>
     </div>
