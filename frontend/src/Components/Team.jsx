@@ -2,8 +2,6 @@ import TeamCard from "./TeamCard";
 import img1 from "../assets/team/img1.png";
 import img2 from "../assets/team/img2.png";
 import img3 from "../assets/team/img3.png";
-import img4 from "../assets/team/img4.png";
-import img5 from "../assets/team/img5.png";
 
 const Team = () => {
   return (
